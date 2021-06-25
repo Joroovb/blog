@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://jorisfreestuff.com/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joris van Breugel</copyright>
+    <lastBuildDate>Tue, 15 Jun 2021 12:24:05 +0200</lastBuildDate><atom:link href="http://jorisfreestuff.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World</title>
+      <link>http://jorisfreestuff.com/posts/2021-06-15-test/</link>
+      <pubDate>Tue, 15 Jun 2021 12:24:05 +0200</pubDate>
+      
+      <guid>http://jorisfreestuff.com/posts/2021-06-15-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://jorisfreestuff.com/about/</link>
+      <pubDate>Tue, 15 Jun 2021 12:14:37 +0200</pubDate>
+      
+      <guid>http://jorisfreestuff.com/about/</guid>
+      <description>Github: Joroovb</description>
+    </item>
+    
+  </channel>
+</rss>
