@@ -1,4 +1,4 @@
-baseURL = "http://blog.jorisvanbreugel.com"
+baseURL = "https://jorisvanbreugel.com/blog"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cactus"
